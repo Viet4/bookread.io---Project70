@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "firebase": "7.9.0",
+    "@firebase/app": "0.x.0",
+    "expo-status-bar": "~1.0.2",
+    "expo-permissions": "~9.3.0",
+    "react-navigation": "^4.4.0",
+    "@firebase/app-types": "0.x.0",
+    "@firebase/firestore": "*",
+    "expo-barcode-scanner": "~9.0.0",
+    "react-native-screens": "~2.10.1",
+    "react-navigation-tabs": "^2.9.0",
+    "react-native-reanimated": "~1.13.0",
+    "@react-navigation/native": "^3.8.4",
+    "react-native-gesture-handler": "~1.7.0"
+  }
+}
